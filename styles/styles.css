@@ -50,11 +50,19 @@ button {
   font-family: inherit;
 }
 
+
 button:hover {
   background-color: #4f4f4f;
   opacity: 1.0;
 }
 
+#mail img {
+  width: 20px;
+  height: 20px;
+  padding-top: 5px;
+
+
+}
 
 .h2 {
   width: 800px;
